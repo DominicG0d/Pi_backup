@@ -8,13 +8,13 @@ Things I would like ai to organize
 - Davinci Resolve optimized media explained 
 - Fundamentals of Programming C++, Python 
 - Book notes
-- 	The Problems of color 
-- 	SUCCESS
-- 	The Science of Storytelling 
+    - The Problems of color 
+    - SUCCESS
+    - The Science of Storytelling 
 - Class Notes
-- 	Homework
-- 	Lecture (ppt)
-- 	Discussions
+    - Homework
+    - Lecture (ppt)
+    - Discussions
 - Learning Music 
 - Storytelling
 - Career Goals Development
